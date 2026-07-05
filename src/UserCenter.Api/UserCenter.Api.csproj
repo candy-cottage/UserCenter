@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>UserCenter.Api</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\UserCenter.Application\UserCenter.Application.csproj" />
+    <ProjectReference Include="..\UserCenter.Infrastructure\UserCenter.Infrastructure.csproj" />
+    <ProjectReference Include="..\UserCenter.Shared\UserCenter.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -374,3 +374,8 @@ FodyWeavers.xsd
 # Reasonix
 .reasonix/
 reasonix.toml
+
+# Frontend (Vite)
+frontend/dist/
+*.local
+
