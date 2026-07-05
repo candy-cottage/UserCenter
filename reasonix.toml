@@ -1,0 +1,2 @@
+[permissions]
+allow = ["Bash(Get-ChildItem docs/ | Select-Object Name, Length)"]
