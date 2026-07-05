@@ -370,3 +370,6 @@ FodyWeavers.xsd
 
 # 临时/草稿目录
 /tmp/
+
+# Reasonix
+.reasonix/
